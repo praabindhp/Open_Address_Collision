@@ -5,7 +5,7 @@ Open addressing also called closed hashing is a method of resolving collisions b
 
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.
 
-This Is A C-Program To Illustrate The List ADT Using Linked List
+This Is A C-Program To Illustrate Open Addressing Collision
 
 The Operations/Error Illustrated :
 
