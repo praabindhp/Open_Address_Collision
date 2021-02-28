@@ -9,25 +9,13 @@ Open addressing also called closed hashing is a method of resolving collisions b
 
 The Operations/Error Illustrated :
 
-    1. Create
+    1. Collision handling by linearprobing
 
-    2. Insert
+    2. Do You Wish To Continue
 
-    3. Delete
+        2.1. Yes - 1
 
-    4. Display
-
-    5. MakeEmpty
-
-    6. Find
-
-    7. IsEmpty
-
-    8. IsFull
-
-    9. Deletelist
-
-    10. Exit
+        2.2. No - 0
     
 
 The User Will Be Prompted To :
