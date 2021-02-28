@@ -25,3 +25,5 @@ The User Will Be Prompted To :
     2. The Hash Table Is .....
 
         Format : Location/Position ..... Numbers Entered
+
+The GCC File Also Have Been Pushed.
